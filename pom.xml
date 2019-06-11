@@ -10,5 +10,7 @@
     <modules>
         <module>batch</module>
         <module>web</module>
+        <module>sqs-producer</module>
+        <module>sqs-consumer</module>
     </modules>
 </project>
