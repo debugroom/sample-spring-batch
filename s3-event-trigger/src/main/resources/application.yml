@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+cloud:
+  aws:
+    stack:
+      auto: false
+bucket:
+  name: debugroom-sample
